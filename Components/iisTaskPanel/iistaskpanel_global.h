@@ -1,0 +1,10 @@
+#ifndef IISTASKPANEL_GLOBAL_H
+#define IISTASKPANEL_GLOBAL_H
+
+#include <Qt/qglobal.h>
+
+
+#define IISTASKPANEL_EXPORT Q_DECL_EXPORT
+
+
+#endif // IISTASKPANEL_GLOBAL_H

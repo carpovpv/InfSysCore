@@ -1,0 +1,4 @@
+InfSysCore is the core for any information system.
+If you are to create an application with many users, roles you may take this program as a core and create your own modules.
+So instead of creating the full application you can do your own models.
+
